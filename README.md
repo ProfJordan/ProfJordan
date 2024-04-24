@@ -42,6 +42,7 @@ I am pursuing a Professional Certificate in Computer Science for Web Programming
 - **Visualization & Analysis**: Turning data into actionable insights.
 
 ### 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profjordan&hide=html&layout=compact&theme=radical)
 ![ProfJordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=profjordan&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
