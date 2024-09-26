@@ -21,12 +21,15 @@ I'm deeply passionate about design and technology, a journey that started from m
 
 My career has been diverse and exciting. After managing a photo department and dabbling as a tattoo apprentice, I discovered my true calling lies in creative design and computer science. I honed my skills in Media Design Technology, mastering programming and graphic design.
 
-As a freelancer, I tackled projects in graphic design and web development, and managed my own small printing shop. Eventually, I joined an agency as a senior lead graphic designer. For five years, I crafted marketing, promotional, and advertising content for a company that presented national tours, Broadway shows, and concerts worldwide.
+As a freelancer, I tackled projects in graphic design and web development, and managed my own small printing shop. Eventually, I joined an agency as a senior lead graphic designer. For five years, I crafted marketing, promotional, and advertising content for a company that produced & presented live entertainment, national tours, Broadway shows, and concerts worldwide.
 
 Following a company split, I established my own creative design studio, Pinebee Creative, serving a broad range of clients from small non-profits to major corporations.
 
+### 🧑‍💻 Employment
+I am currently working full-time filling multiple roles as an app & web developer, graphic designer, email marketer, video editor & database manager for a small 6 person collective vegan food justice organization.
+
 ### 👨‍🏫 Teaching & Sharing Knowledge
-When I'm not working with clients, I teach Web Development & Graphic Design as an adjunct professor. This role has been a fantastic avenue to stay current with industry standards and mentor the next generation of designers and developers.
+When I'm not working with clients, I teach Web Development & Graphic Design part-time as an adjunct professor. This role has been a fantastic avenue to stay current with industry standards and mentor the next generation of designers and developers.
 
 ### 🏆 Accolades
 I'm proud of the recognition my work has received, earning numerous awards in design competitions.
