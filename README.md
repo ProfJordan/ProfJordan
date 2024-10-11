@@ -52,8 +52,8 @@ I am pursuing a Professional Certificate in Computer Science for Web Programming
 Feel free to connect with me for collaborations or if you’re interested in learning more about my work!
 
 ### Connect with Me
-- [LinkedIn](www.linkedin.com/in/jordan-cade-halliday)
-- [Personal Website](http://jordanhalliday.me)
+- [LinkedIn](https://www.linkedin.com/in/jordan-cade-halliday)
+- [Personal Website](https://jordanhalliday.me)
 
 <!-- ## How to Reach Me
 - 📧 Email: [your-email@domain.com]
